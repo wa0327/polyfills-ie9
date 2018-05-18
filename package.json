@@ -1,0 +1,13 @@
+{
+  "name": "polyfills-ie9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Polyfills for IE9.",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^0.59.1"
+  },
+  "dependencies": {}
+}
