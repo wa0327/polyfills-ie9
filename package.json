@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "description": "Polyfills for IE9.",
+  "keywords": [
+    "polyfill",
+    "ie9"
+  ],
+  "homepage": "https://github.com/wa0327/polyfills-ie9",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wa0327/polyfills-ie9.git"
+  },
+  "author": {
+    "name": "Jack Tsai"
+  },
   "scripts": {
     "build": "rollup -c"
   },
